@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b2b7b8-8ba8-4189-af51-1f9515f67a53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Reposit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arif.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/3ZnachnoeChislo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/Rad_opis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/Squere&amp;hipotenuse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/Zodiac.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/basseyn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/buckterii.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/func1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/func2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/func3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/kol_raznih.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/min_max.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/sortbooble.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/sum120000.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/sum4tsifr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/tempCodeRunnerFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/vaga.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/vidsotok.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/zriz1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/zriz2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distributed Lab/zriz3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Epam/lecture2/forContinue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/Arr2VivodVsehMin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/Build2Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/IndexArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/Input2Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/InputArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/Max2Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/MaxArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/MinArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/PuzirkoveSortMas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/RazvorotArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/Sum2Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Array/SumDiagonal2Arr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/AddElementMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/DellElementMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/Soedinenie _map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/Vivod_keys_map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/ZapolnenieMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/clear_map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/map+Slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/mapMake.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Map/slice-map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/OperatsiiArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/PervoeChislo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/Del_Append_Slise.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/SortSlice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/VstavkaSlice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/ZubchatiySlice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/slice+arr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Slice/slice2vimirniy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/Backticks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/FuncStrings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/Rune.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/ScanText.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/Strconv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/Stroky.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/bravo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/String/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Switch2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/SwitchUravnenie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Switchfallthrough.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Values.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Variables.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/kvadUrav.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/otsenka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/sravnenie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/summ3chis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/ChisloVpered.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/MinDelitel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/StoimostPokupok.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/Visocosniy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/Zabivanie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/chet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/cv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/kolZero.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/koltsevaya.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/sd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/summctifr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practik1/w.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.10.8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.11.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.12.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.12.2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.13.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stepik/1.13.2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/10MaximalnoeChislo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/10MaximalnoeChislo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/11VisococniyGod.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/11VisococniyGod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/12VsiParny.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/12VsiParny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/13SummaTsifrChisla.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/13SummaTsifrChisla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/14KolichestoZero.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/14KolichestoZero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/15NaimenshiyDelitel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/15NaimenshiyDelitel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/2Pasha&amp;Kubiki.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/2Pasha&amp;Kubiki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/3ZabivanieGvozdey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/3ZabivanieGvozdey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/4StoimostPokupki.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/4StoimostPokupki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/5ZnaitiChislo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/5ZnaitiChislo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/6ZnaitiChislo2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/6ZnaitiChislo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/7MKAD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/7MKAD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/8MaxMinIz3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/8MaxMinIz3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/9ShahmatmiyKorol.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/9ShahmatmiyKorol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/SumMaxMin2Darr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/arr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/tets.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi1/zx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/10MinPoStrokam.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/10MinPoStrokam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/11Polovina.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/11Polovina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/12PomenyatMestamiMin-Max.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/12PomenyatMestamiMin-Max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/13Kol-voProbelov.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/13Kol-voProbelov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/14kolichestvoSlov.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/14kolichestvoSlov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/15SlovaPolindromy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/15SlovaPolindromy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/1PolojitelnieElementy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/1PolojitelnieElementy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/2BolsheSosednih.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/2BolsheSosednix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/3KolichestvoRaznih.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/3KolichestvoRaznih.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/4SumMejduChet&amp;Min.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/4SumMejduChet&amp;Min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/5Kol-vo_otritsatelnih_mejdu_max&amp;min.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/5Kol-vo_otritsatelnih_mejdu_max&amp;min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/6RezultOlimp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/6RezultOlimp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/7SortirivkaModuley1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/7SortirivkaModuley2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/7SortirivkaModuley3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/8Pokupka_Konfet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/8Pokupka_Konfet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/9SummMin&amp;max.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadachi2/9SummMin&amp;max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Arif.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Clock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Maxmin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Perem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Preobr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Print.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Println.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Pruntf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Skanf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/Stepen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/Kubiki.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/Switch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/Switch2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/SwitchUravnenie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/Switchfallthrough.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/for1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/for2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/for3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/forBreak.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/forContinue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/forRepiat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/goto.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/ifperemennie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/kvadUrav.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/otsenka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/sluchaynoeChislo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/sravnenie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/swithType.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/week.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/1VivodMasiva.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/2VvodMasiva.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/3PuzirkoveSortMas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/4DvoVimirniMas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/5Vvod2mirniMas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/DvoVimirSlice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/Praktika1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/Slice+_-Element.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/Slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/Slice1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/SliceSort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture3/test2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/SlojMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/Stroki.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/map+_-Del.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/map+map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/mapKey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture4/mapMaKe.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/10func_slice_bez_tochek.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/1Pokazchik.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/2func1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/3func+for.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/4ParametrFunc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/5func2Parametra.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/6SootvetstvieParametrov.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/7funcMaxMin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/8A_lot_Parametr_func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture5/9func_Slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/10QuickSort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/11TipFunc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/12.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/14funcResultFunc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/15AnonimnyFunc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/16DeferPoriadok.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/3ImenovaniyRezalt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/4Pokazchik.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/5FuncVozvratArray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/6funcFactorial.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/7ChislaFibonachi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/8Binarniy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture6/9NaibolshiyObshiyDelitel.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EJbi8HxxsjMyPmCSdvz165m8oj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Go Build.go build 3ZnachnoeChislo.go">
+    <configuration name="go build 3ZnachnoeChislo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Reposit" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Distributed Lab/3ZnachnoeChislo.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 8Pokupka_Konfet.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Reposit" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Zadachi2/8Pokupka_Konfet.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Arif.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Reposit" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Arif.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 3ZnachnoeChislo.go" />
+        <item itemvalue="Go Build.go build Arif.go" />
+        <item itemvalue="Go Build.go build 8Pokupka_Konfet.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
