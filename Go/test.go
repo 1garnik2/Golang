@@ -1,15 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	var n int
-	fmt.Scan(&n)
-	var a = 1
-	var b = 0
-	for i := 0; i <= n; i++ {
-		a, b = b, a+b
-	}
-	fmt.Println(a)
+	emoji := []rune("привет")
 
+	for i := 0; i < len(emoji); i++ {
+		fmt.Print(string(emoji[i]), " ") // выводим код символа и его строковое представление
+	}
 }
