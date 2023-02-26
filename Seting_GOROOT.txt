@@ -1,0 +1,8 @@
+установка горут и гопэф
+
+PS C:\Go> setx GOROOT "C:\Go"
+не устаналивать
+SUCCESS: Specified value was saved.
+PS C:\Go> setx PATH "%PATH%;C:\Go\bin"
+пользов
+SUCCESS: Specified value was saved.
