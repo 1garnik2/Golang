@@ -13,7 +13,7 @@ func main() {
 
 func mars_age(x int) int {
 
-	s := math.Sqrt(365 * x / 687)
-	return s
+	s := math.Sqrt(float64(365 * x / 687))
+	return int(s)
 
 }

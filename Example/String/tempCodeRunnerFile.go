@@ -1,0 +1,1 @@
+fmt.Println(strings.Fields(" a\t b\n"))

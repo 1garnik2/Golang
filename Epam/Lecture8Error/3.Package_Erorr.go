@@ -14,7 +14,8 @@ func Divide(a, b int) (int, error) {
 	return a / b, nil
 }
 func main() {
-	a, b := 6, 0
+	a := 6
+	b := 2
 
 	res, err := Divide(a, b)
 	if err != nil {

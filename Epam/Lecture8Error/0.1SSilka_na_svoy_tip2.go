@@ -1,4 +1,4 @@
-// Линейный односвязный список (структура данных)
+// Линейный двухсвязный список (структура данных)
 package main
 
 import "fmt"
@@ -9,6 +9,7 @@ type emploee struct {
 	designation string
 	salary      int
 	chief       *emploee
+	pidlegiy    *emploee
 }
 
 func main() {
@@ -27,6 +28,7 @@ func main() {
 		salary:      4000,
 	}
 	emploee1.chief = &emploee2
+	emploee2.pidlegiy = &emploee1
 	fmt.Println(emploee1.chief.name)
 
 	emploee3 := emploee{
@@ -34,5 +36,8 @@ func main() {
 		designation: "Director",
 	}
 	emploee2.chief = &emploee3
+	emploee3.pidlegiy = &emploee2
 	fmt.Println(emploee1.chief.chief.name)
+	fmt.Println(emploee2.chief.name)
+	fmt.Println(emploee3.pidlegiy.pidlegiy.name)
 }

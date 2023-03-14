@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	str := "34"
+	str := "12"
 	d, err := strconv.Atoi(str)
 	if err != nil {
 		fmt.Println(err)
