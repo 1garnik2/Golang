@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-var ErrDivideByZero = errors.New("Divide by _ zero")
+var ErrDivideByZero = errors.New("Divide by zero")
 
 func Divide(a, b int) (int, error) {
 	if b == 0 {
@@ -15,13 +15,13 @@ func Divide(a, b int) (int, error) {
 }
 func main() {
 	a := 6
-	b := 2
+	b := 0
 
 	res, err := Divide(a, b)
 	if err != nil {
 		switch {
 		case errors.Is(err, ErrDivideByZero):
-			fmt.Println("Divide by zero")
+			fmt.Println(ErrDivideByZero)
 		default:
 			fmt.Printf("Uncknown error: %v\n", err)
 		}

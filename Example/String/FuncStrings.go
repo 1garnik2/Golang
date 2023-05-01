@@ -45,7 +45,7 @@ func main() {
 	//вырезает указанные символы "fo"
 	fmt.Println(strings.Trim("fooe", "fo"))
 	//вырезает указанные символы слева
-	fmt.Println(strings.TrimLeft("sfoo", "f"))
+	fmt.Println(strings.TrimLeft("foo", "f"))
 	//вырезает указанные символы правые,все
 	fmt.Println(strings.TrimRight("foo", "o"))
 	//вырезает префикс "fo"

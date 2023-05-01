@@ -13,5 +13,7 @@ func (u User) getName() string {
 }
 func main() {
 	user := User{"John", 17, "pass"}
+	user.name = "Bob"
+	fmt.Println(user.password)
 	fmt.Println(user.getName())
 }

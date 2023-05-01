@@ -32,8 +32,7 @@ func main() {
 		var divErr *DivisionError
 		switch {
 		case errors.As(err, &divErr):
-			fmt.Printf("%d / %d is not mathematically valid: %s\n",
-				divErr.IntA, divErr.IntB, divErr.Error())
+			fmt.Printf("%d / %d is not mathematically valid: %s\n",divErr.IntA, divErr.IntB, divErr.Error())
 		default:
 			fmt.Printf("unexpected dision error: %s\n", err)
 
