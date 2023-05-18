@@ -16,7 +16,7 @@ func main() {
 	sort.Strings(strSlice)
 	fmt.Println(strSlice)
 
-	// Бмнарный поиск
+	// Бинарный поиск
 	i := sort.SearchInts(intSlice, 6)
 	fmt.Printf("found %d at index %d in %v\n", 6, i, intSlice)
 

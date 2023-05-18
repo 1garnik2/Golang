@@ -9,11 +9,8 @@ type Mover interface {
 
 //структуры
 type Human struct{}
-
 type Car struct{}
-
 type Plane struct{}
-
 type Ship struct{}
 
 // методы для структур с имплементацией метода move
@@ -38,7 +35,7 @@ func drive(m Mover) {
 func main() {
 	// переменные структуры
 	var human = Human{}
-	var car = Car{}
+	var car = Car{}	
 	var plane = Plane{}
 	var ship = Ship{}
 	// у каждой переменной есть метод move()

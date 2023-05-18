@@ -1,3 +1,5 @@
+// 1 -4 -5
+
 package main
 
 import (
@@ -18,7 +20,7 @@ func main() {
 		} else {
 			x1 = (-b - math.Sqrt(d)) / (2 * a)
 			x2 = (-b + math.Sqrt(d)) / (2 * a)
-			fmt.Printf("x1 = %f", x1, "x2 = %f", x2)
+			fmt.Printf("x1 = %f\n x2 = %f", x1, x2)
 
 		}
 	}

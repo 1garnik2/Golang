@@ -21,4 +21,5 @@ func main() {
 	//
 	studentsList = make(map[string]int)
 	fmt.Println(studentsList)
+
 }
